@@ -1,0 +1,9 @@
+O:\Факультет ПМиИТ\ПИ18-3\Комлев Никита Павлович - 181414\4 семестр\Шарп\2\Студенты\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+O:\Факультет ПМиИТ\ПИ18-3\Комлев Никита Павлович - 181414\4 семестр\Шарп\2\Студенты\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+O:\Факультет ПМиИТ\ПИ18-3\Комлев Никита Павлович - 181414\4 семестр\Шарп\2\Студенты\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+O:\Факультет ПМиИТ\ПИ18-3\Комлев Никита Павлович - 181414\4 семестр\Шарп\2\Студенты\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+O:\Факультет ПМиИТ\ПИ18-3\Комлев Никита Павлович - 181414\4 семестр\Шарп\2\Студенты\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+O:\Факультет ПМиИТ\ПИ18-3\Комлев Никита Павлович - 181414\4 семестр\Шарп\2\Студенты\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+O:\Факультет ПМиИТ\ПИ18-3\Комлев Никита Павлович - 181414\4 семестр\Шарп\2\Студенты\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+O:\Факультет ПМиИТ\ПИ18-3\Комлев Никита Павлович - 181414\4 семестр\Шарп\2\Студенты\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+O:\Факультет ПМиИТ\ПИ18-3\Комлев Никита Павлович - 181414\4 семестр\Шарп\2\Студенты\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
